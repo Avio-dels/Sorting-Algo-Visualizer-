@@ -1,9 +1,6 @@
-/*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    
-    *****************
-*/
+var inp_as=document.getElementById("a_size"),array_size=inp_as.value;
+var inp_gen=document.getElementById("a_generate");
+var inp_aspeed=document.getElementById("a_speed");  
 
 //We only have to change background-color and height of the sorting element.
 
@@ -57,9 +54,3 @@ function enable_buttons()
     },c_delay+=delay_time);
 }
 
-/*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    
-    *****************
-*/

@@ -1,14 +1,5 @@
-/*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    
-    *****************
-*/
 
-/*
-Variable naming convention: <object>_<action>_<objectname>; Example -> Button_click_b1;
-*/
-
+//Main js file  
 //Variables (BE CAREFUL THESE MIGHT BE USED IN OTHER JS FILES TOO)
 var inp_as=document.getElementById('a_size'),array_size=inp_as.value;
 var inp_gen=document.getElementById("a_generate");
@@ -94,7 +85,6 @@ function runalgo()
 
 /*
     *****************
-    DONE BY:-   TUMMALA KETHAN
-    
+    DONE BY:-   Ayush Nadive    
     *****************
 */

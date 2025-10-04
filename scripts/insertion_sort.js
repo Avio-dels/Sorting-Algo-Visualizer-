@@ -1,10 +1,3 @@
-/*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    
-    *****************
-*/
-
 function Insertion()
 {
     //Setting Time complexities
@@ -55,10 +48,3 @@ function Insertion()
 
     enable_buttons();
 }
-
-/*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    
-    *****************
-*/
