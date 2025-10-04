@@ -81,7 +81,6 @@ git clone https://github.com/your-username/sorting-visualizer.git
 
 ![Sorting Visualizer - Bubble Sort](Screenshot%202025-10-04%20170024.png)  
 ![Sorting Visualizer - Quick Sort](Screenshot%202025-10-04%20172326.png)
-![Sorting Visualizer Animation](SortingVisualizer.gif)
 
 
 ---
